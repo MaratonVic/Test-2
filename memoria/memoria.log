@@ -1,0 +1,398 @@
+[INFO] 18:48:40:430 mostrar-logs/(4832:4832): Servidor escuchando en puerto 8002
+[INFO] 18:49:09:131 mostrar-logs/(5294:5294): Servidor escuchando en puerto 8002
+[INFO] 18:50:36:947 mostrar-logs/(5294:5300): ## Kernel Conectado - FD del socket: 5
+
+[INFO] 18:51:30:152 mostrar-logs/(5294:5315): ## CPU Conectada - FD del socket: 6
+
+[ERROR] 18:52:58:817 mostrar-logs/(5294:5300): Entre
+[INFO] 19:12:14:793 mostrar-logs/(6355:6355): Servidor escuchando en puerto 8002
+[INFO] 19:13:46:978 mostrar-logs/(7549:7549): Servidor escuchando en puerto 8002
+[INFO] 19:13:52:131 mostrar-logs/(7549:7557): ## Kernel Conectado - FD del socket: 5
+
+[INFO] 19:19:19:725 mostrar-logs/(7549:8390): ## CPU Conectada - FD del socket: 6
+
+[ERROR] 19:19:19:725 mostrar-logs/(7549:7557): Operacion invalida 
+
+[INFO] 19:21:10:206 mostrar-logs/(8518:8518): Servidor escuchando en puerto 8002
+[INFO] 19:21:19:090 mostrar-logs/(8518:8520): ## Kernel Conectado - FD del socket: 5
+
+[ERROR] 19:21:25:304 mostrar-logs/(8518:8520): Operacion invalida 
+
+[INFO] 19:21:25:305 mostrar-logs/(8518:8533): ## CPU Conectada - FD del socket: 6
+
+[INFO] 19:21:59:958 mostrar-logs/(8553:8553): Servidor escuchando en puerto 8002
+[INFO] 19:22:03:225 mostrar-logs/(8553:8556): ## Kernel Conectado - FD del socket: 5
+
+[INFO] 19:22:06:007 mostrar-logs/(8553:8568): ## CPU Conectada - FD del socket: 6
+
+[ERROR] 19:22:06:008 mostrar-logs/(8553:8556): Operacion invalida 
+
+[INFO] 19:26:33:057 mostrar-logs/(9393:9393): Servidor escuchando en puerto 8002
+[INFO] 19:27:11:033 mostrar-logs/(10046:10046): Servidor escuchando en puerto 8002
+[INFO] 19:27:14:746 mostrar-logs/(10046:10048): ## Kernel Conectado - FD del socket: 5
+
+[ERROR] 19:27:18:461 mostrar-logs/(10046:10048): Operacion invalida 
+
+[INFO] 19:27:18:462 mostrar-logs/(10046:10060): ## CPU Conectada - FD del socket: 6
+
+[INFO] 19:31:41:218 mostrar-logs/(10422:10422): Servidor escuchando en puerto 8002
+[INFO] 19:31:43:864 mostrar-logs/(10422:10427): ## Kernel Conectado - FD del socket: 5
+
+[INFO] 19:31:47:143 mostrar-logs/(10422:10440): ## CPU Conectada - FD del socket: 6
+
+[ERROR] 19:32:08:073 mostrar-logs/(10422:10427): Operacion invalida 
+
+[INFO] 19:34:25:641 mostrar-logs/(10471:10471): Servidor escuchando en puerto 8002
+[INFO] 19:34:27:564 mostrar-logs/(10471:10473): ## Kernel Conectado - FD del socket: 5
+
+[INFO] 19:34:30:211 mostrar-logs/(10471:10485): ## CPU Conectada - FD del socket: 6
+
+[ERROR] 19:34:32:619 mostrar-logs/(10471:10473): Operacion invalida 
+
+[INFO] 21:00:12:981 mostrar-logs/(12233:12233): Servidor escuchando en puerto 8002
+[INFO] 21:00:27:092 mostrar-logs/(12294:12294): Servidor escuchando en puerto 8002
+[INFO] 21:00:30:024 mostrar-logs/(12294:12303): ## Kernel Conectado - FD del socket: 5
+
+[INFO] 21:00:33:846 mostrar-logs/(12294:12321): ## CPU Conectada - FD del socket: 6
+
+[ERROR] 21:00:38:508 mostrar-logs/(12294:12303): Abajo de codup: 5
+
+[ERROR] 21:00:38:508 mostrar-logs/(12294:12303): Operacion invalida 
+
+[INFO] 21:10:01:342 mostrar-logs/(13194:13194): Servidor escuchando en puerto 8002
+[INFO] 21:10:47:428 mostrar-logs/(13194:13199): ## Kernel Conectado - FD del socket: 5
+
+[INFO] 21:10:50:629 mostrar-logs/(13194:13209): ## CPU Conectada - FD del socket: 6
+
+[ERROR] 21:10:53:097 mostrar-logs/(13194:13199): Abajo de codup: 5
+
+[ERROR] 21:10:53:097 mostrar-logs/(13194:13199): Operacion invalida 
+
+[INFO] 21:14:02:899 mostrar-logs/(13686:13686): Servidor escuchando en puerto 8002
+[INFO] 21:14:07:265 mostrar-logs/(13686:13688): ## Kernel Conectado - FD del socket: 5
+
+[INFO] 21:14:10:057 mostrar-logs/(13686:13696): ## CPU Conectada - FD del socket: 6
+
+[ERROR] 21:14:12:145 mostrar-logs/(13686:13688): Abajo de codup: 5
+
+[ERROR] 21:14:12:145 mostrar-logs/(13686:13688): Operacion invalida 
+
+[INFO] 21:15:36:472 mostrar-logs/(14142:14142): Servidor escuchando en puerto 8002
+[INFO] 21:15:39:218 mostrar-logs/(14142:14144): ## Kernel Conectado - FD del socket: 5
+
+[ERROR] 21:15:42:808 mostrar-logs/(14142:14144): Abajo de codup: 5
+
+[ERROR] 21:15:42:808 mostrar-logs/(14142:14144): Operacion invalida 
+
+[INFO] 21:15:42:809 mostrar-logs/(14142:14157): ## CPU Conectada - FD del socket: 6
+
+[INFO] 21:21:44:454 mostrar-logs/(14695:14695): Servidor escuchando en puerto 8002
+[INFO] 21:21:46:270 mostrar-logs/(14695:14697): ## Kernel Conectado - FD del socket: 5
+
+[ERROR] 21:21:50:556 mostrar-logs/(14695:14697): Abajo de codup: 5
+
+[ERROR] 21:21:50:556 mostrar-logs/(14695:14697): Operacion invalida 
+
+[INFO] 21:21:50:556 mostrar-logs/(14695:14709): ## CPU Conectada - FD del socket: 6
+
+[ERROR] 21:42:34:422 mostrar-logs/(16261:16261): Fallo bind
+[ERROR] 21:42:34:424 mostrar-logs/(16261:16269): Fallo al recibir paquete
+[ERROR] 21:44:05:353 mostrar-logs/(16673:16673): Fallo bind
+[ERROR] 21:44:05:354 mostrar-logs/(16673:16677): Fallo al recibir paquete
+[ERROR] 21:44:46:694 mostrar-logs/(17067:17067): Fallo bind
+[ERROR] 21:44:46:695 mostrar-logs/(17067:17071): Fallo al recibir paquete
+[INFO] 21:45:16:115 mostrar-logs/(17414:17414): Servidor escuchando en puerto 8002
+[INFO] 21:46:49:189 mostrar-logs/(17907:17907): Servidor escuchando en puerto 8002
+[INFO] 21:47:34:626 mostrar-logs/(17978:17978): Servidor escuchando en puerto 8002
+[INFO] 21:47:37:075 mostrar-logs/(17978:17980): ## Kernel Conectado - FD del socket: 5
+
+[ERROR] 21:47:40:016 mostrar-logs/(17978:17980): Operacion invalida 
+
+[INFO] 21:47:40:016 mostrar-logs/(17978:17993): ## CPU Conectada - FD del socket: 6
+
+[INFO] 23:12:23:289 mostrar-logs/(20390:20390): Servidor escuchando en puerto 8002
+[INFO] 23:12:47:225 mostrar-logs/(20390:20392): ## Kernel Conectado - FD del socket: 5
+
+[ERROR] 23:13:14:815 mostrar-logs/(20390:20392): Operacion invalida 
+
+[INFO] 23:13:14:816 mostrar-logs/(20390:20405): ## CPU Conectada - FD del socket: 6
+
+[INFO] 23:14:11:974 mostrar-logs/(20423:20423): Servidor escuchando en puerto 8002
+[INFO] 23:14:15:126 mostrar-logs/(20423:20425): ## Kernel Conectado - FD del socket: 5
+
+[ERROR] 23:14:18:950 mostrar-logs/(20423:20425): Operacion invalida 
+
+[INFO] 23:14:18:951 mostrar-logs/(20423:20437): ## CPU Conectada - FD del socket: 6
+
+[ERROR] 00:07:13:259 mostrar-logs/(23696:23696): Fallo bind
+[ERROR] 00:07:13:260 mostrar-logs/(23696:23712): Fallo al recibir paquete
+[INFO] 00:07:58:753 mostrar-logs/(24324:24324): Servidor escuchando en puerto 8002
+[INFO] 00:10:22:341 mostrar-logs/(25910:25910): Servidor escuchando en puerto 8002
+[INFO] 00:10:26:982 mostrar-logs/(25910:25912): ## Kernel Conectado - FD del socket: 5
+
+[INFO] 00:10:30:634 mostrar-logs/(25910:25920): ## CPU Conectada - FD del socket: 6
+
+[INFO] 00:10:33:157 mostrar-logs/(25910:25912): Código de operación recibido: 6
+[ERROR] 00:10:33:157 mostrar-logs/(25910:25912): Entre
+[INFO] 00:10:33:157 mostrar-logs/(25910:25912): Código de operación recibido: 6
+[INFO] 00:10:33:157 mostrar-logs/(25910:25912): Nombre recibido correctamente: pseudocodigo.txt
+[INFO] 00:10:33:157 mostrar-logs/(25910:25912): pid recibido correctamente: 0
+[INFO] 00:10:33:157 mostrar-logs/(25910:25912): tamanio recibido correctamente: 256
+[INFO] 01:14:29:454 mostrar-logs/(28014:28014): Servidor escuchando en puerto 8002
+[INFO] 01:14:42:145 mostrar-logs/(28063:28063): Servidor escuchando en puerto 8002
+[INFO] 01:14:47:510 mostrar-logs/(28063:28065): ## Kernel Conectado - FD del socket: 5
+
+[INFO] 01:14:52:157 mostrar-logs/(28063:28065): Código de operación recibido: 6
+[ERROR] 01:14:52:157 mostrar-logs/(28063:28065): Entre
+[INFO] 01:14:52:157 mostrar-logs/(28063:28065): Código de operación recibido: 6
+[INFO] 01:14:52:157 mostrar-logs/(28063:28065): Nombre recibido correctamente: pseudocodigo.txt
+[INFO] 01:14:52:157 mostrar-logs/(28063:28065): pid recibido correctamente: 0
+[INFO] 01:14:52:157 mostrar-logs/(28063:28065): tamanio recibido correctamente: 256
+[INFO] 21:54:56:691 mostrar-logs/(29507:29507): Servidor escuchando en puerto 8002
+[INFO] 21:55:32:997 mostrar-logs/(29507:29521): ## Kernel Conectado - FD del socket: 5
+
+[INFO] 21:57:23:145 mostrar-logs/(29842:29842): Servidor escuchando en puerto 8002
+[INFO] 21:57:26:610 mostrar-logs/(29842:29844): ## Kernel Conectado - FD del socket: 5
+
+[INFO] 21:59:01:358 mostrar-logs/(29842:30539): ## CPU Conectada - FD del socket: 6
+
+[INFO] 21:59:05:233 mostrar-logs/(29842:29844): Código de operación recibido: 6
+[ERROR] 21:59:05:233 mostrar-logs/(29842:29844): Entre
+[INFO] 21:59:05:233 mostrar-logs/(29842:29844): Código de operación recibido: 6
+[INFO] 21:59:05:233 mostrar-logs/(29842:29844): Nombre recibido correctamente: pseudocodigo.txt
+[INFO] 21:59:05:233 mostrar-logs/(29842:29844): pid recibido correctamente: 0
+[INFO] 21:59:05:233 mostrar-logs/(29842:29844): tamanio recibido correctamente: 256
+[INFO] 23:07:15:690 mostrar-logs/(31804:31804): Servidor escuchando en puerto 8002
+[INFO] 23:07:35:705 mostrar-logs/(32185:32185): Servidor escuchando en puerto 8002
+[INFO] 23:07:44:226 mostrar-logs/(32185:32190): ## Kernel Conectado - FD del socket: 5
+
+[INFO] 23:07:46:284 mostrar-logs/(32185:32196): ## CPU Conectada - FD del socket: 6
+
+[INFO] 23:07:48:432 mostrar-logs/(32185:32190): Código de operación recibido: 6
+[ERROR] 23:07:48:432 mostrar-logs/(32185:32190): Entre
+[INFO] 23:07:48:432 mostrar-logs/(32185:32190): Código de operación recibido: 6
+[INFO] 23:07:48:433 mostrar-logs/(32185:32190): Nombre recibido correctamente: pseudocodigo.txt
+[INFO] 23:07:48:433 mostrar-logs/(32185:32190): pid recibido correctamente: 0
+[INFO] 23:07:48:433 mostrar-logs/(32185:32190): tamanio recibido correctamente: 256
+[ERROR] 03:04:38:077 mostrar-logs/(36483:36483): Fallo bind
+[ERROR] 03:04:38:088 mostrar-logs/(36483:36510): Fallo al recibir paquete
+[ERROR] 03:09:20:391 mostrar-logs/(37148:37148): Fallo bind
+[ERROR] 03:09:20:392 mostrar-logs/(37148:37152): Fallo al recibir paquete
+[ERROR] 03:09:20:393 mostrar-logs/(37148:37153): Fallo al recibir paquete
+[ERROR] 03:11:18:600 mostrar-logs/(37771:37771): Fallo bind
+[ERROR] 03:11:18:602 mostrar-logs/(37771:37775): Fallo al recibir paquete
+[ERROR] 03:26:45:447 mostrar-logs/(38500:38500): Fallo bind
+[ERROR] 03:26:45:451 mostrar-logs/(38500:38504): Fallo al recibir paquete
+[INFO] 03:49:14:460 mostrar-logs/(2358:2358): Servidor escuchando en puerto 8002
+[INFO] 03:50:42:222 mostrar-logs/(2358:2367): ## Kernel Conectado - FD del socket: 5
+
+[INFO] 03:51:09:192 mostrar-logs/(2358:2378): ## CPU Conectada - FD del socket: 6
+
+[INFO] 03:52:15:752 mostrar-logs/(2358:2367): Código de operación recibido: 6
+[ERROR] 03:52:15:752 mostrar-logs/(2358:2367): Entre
+[INFO] 03:52:15:752 mostrar-logs/(2358:2367): Código de operación recibido: 6
+[INFO] 03:52:15:752 mostrar-logs/(2358:2367): Nombre recibido correctamente: pseudocodigo.txt
+[INFO] 03:52:15:752 mostrar-logs/(2358:2367): pid recibido correctamente: 0
+[INFO] 03:52:15:752 mostrar-logs/(2358:2367): tamanio recibido correctamente: 256
+[INFO] 04:10:18:663 mostrar-logs/(2625:2625): Servidor escuchando en puerto 8002
+[INFO] 04:10:51:697 mostrar-logs/(2625:2627): ## Kernel Conectado - FD del socket: 5
+
+[INFO] 04:11:06:233 mostrar-logs/(2625:2637): ## CPU Conectada - FD del socket: 6
+
+[INFO] 04:11:57:631 mostrar-logs/(2625:2627): Código de operación recibido: 6
+[ERROR] 04:11:57:631 mostrar-logs/(2625:2627): Entre
+[INFO] 04:11:57:631 mostrar-logs/(2625:2627): Código de operación recibido: 6
+[INFO] 04:11:57:631 mostrar-logs/(2625:2627): Nombre recibido correctamente: pseudocodigo.txt
+[INFO] 04:11:57:631 mostrar-logs/(2625:2627): pid recibido correctamente: 0
+[INFO] 04:11:57:631 mostrar-logs/(2625:2627): tamanio recibido correctamente: 256
+[INFO] 12:43:55:288 mostrar-logs/(3960:3960): Servidor escuchando en puerto 8002
+[INFO] 13:06:43:475 mostrar-logs/(4486:4486): Servidor escuchando en puerto 8002
+[INFO] 16:05:15:676 mostrar-logs/(6483:6483): Servidor escuchando en puerto 8002
+[INFO] 16:06:30:901 mostrar-logs/(6627:6627): Servidor escuchando en puerto 8002
+[INFO] 16:06:37:412 mostrar-logs/(6627:6634): ## Kernel Conectado - FD del socket: 5
+
+[INFO] 16:06:40:834 mostrar-logs/(6627:6642): ## CPU Conectada - FD del socket: 6
+
+[INFO] 16:06:46:084 mostrar-logs/(6627:6634): Código de operación recibido: 6
+[ERROR] 16:06:46:084 mostrar-logs/(6627:6634): Entre
+[INFO] 16:06:46:085 mostrar-logs/(6627:6634): Código de operación recibido: 6
+[INFO] 16:06:46:085 mostrar-logs/(6627:6634): Nombre recibido correctamente: pseudocodigo.txt
+[INFO] 16:06:46:085 mostrar-logs/(6627:6634): pid recibido correctamente: 0
+[INFO] 16:06:46:085 mostrar-logs/(6627:6634): tamanio recibido correctamente: 256
+[INFO] 20:05:59:884 mostrar-logs/(10018:10018): Servidor escuchando en puerto 8002
+[INFO] 20:06:04:013 mostrar-logs/(10018:10020): ## Kernel Conectado - FD del socket: 5
+
+[INFO] 20:06:07:500 mostrar-logs/(10018:10029): ## CPU Conectada - FD del socket: 6
+
+[INFO] 20:06:09:532 mostrar-logs/(10018:10020): Código de operación recibido: 6
+[ERROR] 20:06:09:532 mostrar-logs/(10018:10020): Entre
+[INFO] 20:06:09:532 mostrar-logs/(10018:10020): Código de operación recibido: 6
+[INFO] 20:06:09:532 mostrar-logs/(10018:10020): Nombre recibido correctamente: pseudocodigo.txt
+[INFO] 20:06:09:532 mostrar-logs/(10018:10020): pid recibido correctamente: 0
+[INFO] 20:06:09:532 mostrar-logs/(10018:10020): tamanio recibido correctamente: 256
+[INFO] 20:08:15:968 mostrar-logs/(11065:11065): Servidor escuchando en puerto 8002
+[INFO] 20:08:35:061 mostrar-logs/(11131:11131): Servidor escuchando en puerto 8002
+[INFO] 20:08:38:373 mostrar-logs/(11131:11133): ## Kernel Conectado - FD del socket: 5
+
+[INFO] 20:08:41:999 mostrar-logs/(11131:11142): ## CPU Conectada - FD del socket: 6
+
+[INFO] 20:08:46:843 mostrar-logs/(11131:11133): Código de operación recibido: 6
+[ERROR] 20:08:46:843 mostrar-logs/(11131:11133): Entre
+[INFO] 20:08:46:843 mostrar-logs/(11131:11133): Código de operación recibido: 6
+[INFO] 20:08:46:843 mostrar-logs/(11131:11133): Nombre recibido correctamente: pseudocodigo.txt
+[INFO] 20:08:46:843 mostrar-logs/(11131:11133): pid recibido correctamente: 0
+[INFO] 20:08:46:843 mostrar-logs/(11131:11133): tamanio recibido correctamente: 256
+[INFO] 21:50:13:686 mostrar-logs/(15395:15395): Servidor escuchando en puerto 8002
+[INFO] 23:08:47:220 mostrar-logs/(16567:16567): Servidor escuchando en puerto 8002
+[INFO] 23:08:57:724 mostrar-logs/(16567:16576): ## Kernel Conectado - FD del socket: 5
+
+[INFO] 23:11:01:519 mostrar-logs/(16567:17270): ## CPU Conectada - FD del socket: 6
+
+[INFO] 23:11:04:795 mostrar-logs/(16567:16576): Código de operación recibido: 6
+[ERROR] 23:11:04:795 mostrar-logs/(16567:16576): Entre
+[INFO] 23:48:18:765 mostrar-logs/(18979:18979): Servidor escuchando en puerto 8002
+[INFO] 23:49:29:853 mostrar-logs/(19045:19045): Servidor escuchando en puerto 8002
+[INFO] 23:49:34:452 mostrar-logs/(19045:19047): ## Kernel Conectado - FD del socket: 5
+
+[INFO] 23:49:40:248 mostrar-logs/(19045:19057): ## CPU Conectada - FD del socket: 6
+
+[INFO] 23:49:43:732 mostrar-logs/(19045:19047): Código de operación recibido: 6
+[ERROR] 23:49:43:732 mostrar-logs/(19045:19047): Entre
+[INFO] 23:50:43:579 mostrar-logs/(19348:19348): Servidor escuchando en puerto 8002
+[INFO] 23:50:56:660 mostrar-logs/(19405:19405): Servidor escuchando en puerto 8002
+[INFO] 23:51:01:485 mostrar-logs/(19405:19407): ## Kernel Conectado - FD del socket: 5
+
+[INFO] 23:51:04:590 mostrar-logs/(19405:19416): ## CPU Conectada - FD del socket: 6
+
+[INFO] 23:51:07:018 mostrar-logs/(19405:19407): Código de operación recibido: 6
+[ERROR] 23:51:07:018 mostrar-logs/(19405:19407): Entre
+[INFO] 00:09:52:873 mostrar-logs/(20032:20032): Servidor escuchando en puerto 8002
+[INFO] 00:10:03:789 mostrar-logs/(20101:20101): Servidor escuchando en puerto 8002
+[INFO] 00:10:06:800 mostrar-logs/(20101:20103): ## Kernel Conectado - FD del socket: 5
+
+[INFO] 00:10:09:158 mostrar-logs/(20101:20112): ## CPU Conectada - FD del socket: 6
+
+[INFO] 00:10:10:763 mostrar-logs/(20101:20103): Código de operación recibido: 6
+[ERROR] 00:10:10:763 mostrar-logs/(20101:20103): Entre
+[INFO] 00:10:28:556 mostrar-logs/(20405:20405): Servidor escuchando en puerto 8002
+[INFO] 00:10:52:187 mostrar-logs/(20479:20479): Servidor escuchando en puerto 8002
+[INFO] 00:10:55:188 mostrar-logs/(20479:20487): ## Kernel Conectado - FD del socket: 5
+
+[INFO] 00:10:58:055 mostrar-logs/(20479:20495): ## CPU Conectada - FD del socket: 6
+
+[INFO] 00:10:59:995 mostrar-logs/(20479:20487): Código de operación recibido: 6
+[ERROR] 00:10:59:995 mostrar-logs/(20479:20487): Entre
+[INFO] 00:12:23:252 mostrar-logs/(20854:20854): Servidor escuchando en puerto 8002
+[ERROR] 00:12:33:131 mostrar-logs/(20909:20909): Fallo bind
+[ERROR] 00:12:33:132 mostrar-logs/(20909:20912): Fallo al recibir paquete
+[ERROR] 00:12:33:132 mostrar-logs/(20909:20915): Fallo al recibir paquete
+[ERROR] 00:12:37:140 mostrar-logs/(20926:20926): Fallo bind
+[ERROR] 00:12:37:141 mostrar-logs/(20926:20927): Fallo al recibir paquete
+[ERROR] 00:12:38:331 mostrar-logs/(20934:20934): Fallo bind
+[ERROR] 00:12:38:332 mostrar-logs/(20934:20936): Fallo al recibir paquete
+[ERROR] 00:12:39:067 mostrar-logs/(20945:20945): Fallo bind
+[ERROR] 00:12:39:068 mostrar-logs/(20945:20948): Fallo al recibir paquete
+[ERROR] 00:12:39:068 mostrar-logs/(20945:20949): Fallo al recibir paquete
+[ERROR] 00:12:39:891 mostrar-logs/(20962:20962): Fallo bind
+[ERROR] 00:12:39:892 mostrar-logs/(20962:20965): Fallo al recibir paquete
+[ERROR] 00:12:46:475 mostrar-logs/(20993:20993): Fallo bind
+[ERROR] 00:12:46:476 mostrar-logs/(20993:20995): Fallo al recibir paquete
+[ERROR] 00:12:47:091 mostrar-logs/(21017:21017): Fallo bind
+[ERROR] 00:12:47:092 mostrar-logs/(21017:21020): Fallo al recibir paquete
+[ERROR] 00:12:47:092 mostrar-logs/(21017:21019): Fallo al recibir paquete
+[ERROR] 00:12:47:899 mostrar-logs/(21030:21030): Fallo bind
+[ERROR] 00:12:47:900 mostrar-logs/(21030:21033): Fallo al recibir paquete
+[ERROR] 00:12:48:643 mostrar-logs/(21045:21045): Fallo bind
+[ERROR] 00:12:48:644 mostrar-logs/(21045:21053): Fallo al recibir paquete
+[ERROR] 00:12:49:195 mostrar-logs/(21070:21070): Fallo bind
+[ERROR] 00:12:49:196 mostrar-logs/(21070:21073): Fallo al recibir paquete
+[ERROR] 00:12:49:196 mostrar-logs/(21070:21079): Fallo al recibir paquete
+[ERROR] 00:12:49:196 mostrar-logs/(21070:21071): Fallo al recibir paquete
+[ERROR] 00:12:49:699 mostrar-logs/(21103:21103): Fallo bind
+[ERROR] 00:12:49:700 mostrar-logs/(21103:21106): Fallo al recibir paquete
+[ERROR] 00:12:49:700 mostrar-logs/(21103:21105): Fallo al recibir paquete
+[ERROR] 00:12:49:700 mostrar-logs/(21103:21104): Fallo al recibir paquete
+[ERROR] 00:12:49:700 mostrar-logs/(21103:21113): Fallo al recibir paquete
+[ERROR] 00:12:50:107 mostrar-logs/(21152:21152): Fallo bind
+[ERROR] 00:12:50:108 mostrar-logs/(21152:21153): Fallo al recibir paquete
+[ERROR] 00:12:50:491 mostrar-logs/(21172:21172): Fallo bind
+[ERROR] 00:12:50:491 mostrar-logs/(21172:21175): Fallo al recibir paquete
+[ERROR] 00:12:50:851 mostrar-logs/(21200:21200): Fallo bind
+[ERROR] 00:12:50:851 mostrar-logs/(21200:21204): Fallo al recibir paquete
+[ERROR] 00:12:50:851 mostrar-logs/(21200:21209): Fallo al recibir paquete
+[ERROR] 00:12:51:227 mostrar-logs/(21234:21234): Fallo bind
+[ERROR] 00:12:51:228 mostrar-logs/(21234:21236): Fallo al recibir paquete
+[ERROR] 00:12:51:651 mostrar-logs/(21248:21248): Fallo bind
+[ERROR] 00:12:51:652 mostrar-logs/(21248:21252): Fallo al recibir paquete
+[ERROR] 00:12:51:652 mostrar-logs/(21248:21249): Fallo al recibir paquete
+[ERROR] 00:12:53:403 mostrar-logs/(21263:21263): Fallo bind
+[ERROR] 00:12:53:404 mostrar-logs/(21263:21264): Fallo al recibir paquete
+[INFO] 00:13:07:980 mostrar-logs/(21384:21384): Servidor escuchando en puerto 8002
+[INFO] 00:13:12:133 mostrar-logs/(21384:21433): ## Kernel Conectado - FD del socket: 5
+
+[INFO] 00:13:14:104 mostrar-logs/(21384:21442): ## CPU Conectada - FD del socket: 6
+
+[INFO] 00:13:15:819 mostrar-logs/(21384:21433): Código de operación recibido: 6
+[ERROR] 00:13:15:819 mostrar-logs/(21384:21433): Entre
+[INFO] 00:25:48:635 mostrar-logs/(22028:22028): Servidor escuchando en puerto 8002
+[INFO] 00:25:56:387 mostrar-logs/(22088:22088): Servidor escuchando en puerto 8002
+[INFO] 00:25:59:660 mostrar-logs/(22088:22096): ## Kernel Conectado - FD del socket: 5
+
+[INFO] 00:26:03:430 mostrar-logs/(22088:22110): ## CPU Conectada - FD del socket: 6
+
+[INFO] 00:26:05:771 mostrar-logs/(22088:22096): Código de operación recibido: 6
+[ERROR] 00:26:05:771 mostrar-logs/(22088:22096): Entre
+[INFO] 00:32:08:361 mostrar-logs/(22506:22506): Servidor escuchando en puerto 8002
+[INFO] 00:32:20:467 mostrar-logs/(22564:22564): Servidor escuchando en puerto 8002
+[INFO] 00:32:23:293 mostrar-logs/(22564:22567): ## Kernel Conectado - FD del socket: 5
+
+[INFO] 00:32:29:431 mostrar-logs/(22564:22574): ## CPU Conectada - FD del socket: 6
+
+[INFO] 00:32:33:275 mostrar-logs/(22564:22567): Código de operación recibido: 6
+[ERROR] 00:32:33:275 mostrar-logs/(22564:22567): Entre
+[INFO] 00:35:49:304 mostrar-logs/(22919:22919): Servidor escuchando en puerto 8002
+[INFO] 00:38:55:899 mostrar-logs/(23021:23021): Servidor escuchando en puerto 8002
+[INFO] 00:38:58:892 mostrar-logs/(23021:23029): ## Kernel Conectado - FD del socket: 5
+
+[INFO] 00:39:01:493 mostrar-logs/(23021:23037): ## CPU Conectada - FD del socket: 6
+
+[INFO] 00:39:03:803 mostrar-logs/(23021:23029): Código de operación recibido: 6
+[ERROR] 00:39:03:803 mostrar-logs/(23021:23029): Entre
+[INFO] 00:57:48:083 mostrar-logs/(23529:23529): Servidor escuchando en puerto 8002
+[INFO] 00:57:53:676 mostrar-logs/(23831:23831): Servidor escuchando en puerto 8002
+[INFO] 00:58:01:682 mostrar-logs/(23875:23875): Servidor escuchando en puerto 8002
+[INFO] 00:58:04:900 mostrar-logs/(23875:23877): ## Kernel Conectado - FD del socket: 5
+
+[INFO] 00:58:07:287 mostrar-logs/(23875:23885): ## CPU Conectada - FD del socket: 6
+
+[INFO] 00:58:09:586 mostrar-logs/(23875:23877): Código de operación recibido: 6
+[ERROR] 00:58:09:586 mostrar-logs/(23875:23877): Entre
+[INFO] 01:01:46:634 mostrar-logs/(24492:24492): Servidor escuchando en puerto 8002
+[INFO] 09:51:03:460 mostrar-logs/(2845:2845): Servidor escuchando en puerto 8002
+[INFO] 09:52:22:442 mostrar-logs/(3977:3977): Servidor escuchando en puerto 8002
+[INFO] 09:52:29:855 mostrar-logs/(3977:3980): ## Kernel Conectado - FD del socket: 5
+
+[INFO] 09:52:36:644 mostrar-logs/(3977:3989): ## CPU Conectada - FD del socket: 6
+
+[INFO] 09:53:11:322 mostrar-logs/(3977:3980): Código de operación recibido: 6
+[ERROR] 09:53:11:323 mostrar-logs/(3977:3980): Entre
+[INFO] 09:53:11:323 mostrar-logs/(3977:3980): PID: 0 
+
+[INFO] 09:53:11:323 mostrar-logs/(3977:3980): archivo pseudocodigo.txt
+[INFO] 09:53:11:323 mostrar-logs/(3977:3980): Instrucciones cargadas para PID 0 (8 instrucciones)
+[INFO] 09:53:11:323 mostrar-logs/(3977:3980): ## PID: 0 - Proceso Creado - Tamanio: 256
+[INFO] 23:50:24:263 mostrar-logs/(3271:3271): Servidor escuchando en puerto 8002
+[INFO] 23:51:52:282 mostrar-logs/(3996:3996): Servidor escuchando en puerto 8002
+[INFO] 23:52:06:250 mostrar-logs/(3996:4003): ## Kernel Conectado - FD del socket: 5
+
+[INFO] 00:01:16:845 mostrar-logs/(3996:4003): Código de operación recibido: 6
+[ERROR] 00:01:18:349 mostrar-logs/(3996:4003): Entre
+[INFO] 00:01:18:349 mostrar-logs/(3996:4003): PID: 0 
+
+[INFO] 00:01:18:349 mostrar-logs/(3996:4003): archivo /home/utnso/scripts/pseudocodigo.txt
+[INFO] 00:01:18:352 mostrar-logs/(3996:4003): Instrucciones cargadas para PID 0 (8 instrucciones)
+[INFO] 00:01:18:352 mostrar-logs/(3996:4003): ## PID: 0 - Proceso Creado - Tamanio: 256
+[INFO] 07:07:50:293 mostrar-logs/(40971:40971): Servidor escuchando en puerto 8002
+[INFO] 09:15:48:319 mostrar-logs/(44522:44522): Servidor escuchando en puerto 8002
+[INFO] 09:34:08:160 mostrar-logs/(45242:45242): Servidor escuchando en puerto 8002
+[INFO] 19:35:19:602 mostrar-logs/(48442:48442): Servidor escuchando en puerto 8002

@@ -1,0 +1,6 @@
+[INFO] 18:52:36:367 LOGGER_INFO_IO/(5317:5317): soy: teclado
+[INFO] 18:52:36:367 LOGGER_INFO_IO/(5317:5317): [Kernel] Conectado a 127.0.0.1:8003
+[WARNING] 19:11:41:926 LOGGER_INFO_IO/(5317:5317): Kernel desconectada (fd 4)
+[INFO] 19:11:41:926 LOGGER_INFO_IO/(5317:5317): Terminaron las peticiones de IO
+[INFO] 19:19:26:377 LOGGER_INFO_IO/(8392:8392): soy: teclado
+[INFO] 19:19:26:377 LOGGER_INFO_IO/(8392:8392): [Kernel] Conectado a 127.0.0.1:8003
