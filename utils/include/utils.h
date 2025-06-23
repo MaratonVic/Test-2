@@ -1,0 +1,50 @@
+#ifndef UTILS_H_ 
+#define UTILS_H_
+
+#include<stdio.h>
+#include<stdlib.h>
+#include<sys/socket.h>
+#include<signal.h>
+#include<unistd.h>
+#include<netdb.h>
+#include<string.h>
+#include<commons/log.h>
+#include<commons/config.h>
+#include<commons/string.h>
+ 
+ typedef enum {
+    MENSAJE,
+    PAQUETE,
+    INICIARIO,
+    PETICIONAIO,
+    DESPERTOIO,
+    HANDSHAKE,
+    SOL_OPERACION,
+    SOL_MOCK,
+    INIT_PROC,
+    INIT_IO,
+    INIT_DUMP_MEMORY,
+    INIT_EXIT,
+    ACCESO_A_PAGINA,
+    RESPUESTA_MARCO,
+    SOLICITAR_INSTRUCCION,
+    INSTRUCCION_SOLICITADA,
+    INTERRUPCION,
+    DEVOLVER_PCB,
+    DESTROY_PROC,
+    OK, 
+    ERROR_MEMORIA,
+    SUSP
+ }op_code;
+ 
+
+int crear_conexion(char* ip, char* puerto);
+
+int iniciar_servidor(char* puerto, t_log* logger);
+
+int esperar_cliente(int socket_servidor);
+
+
+
+
+#endif 

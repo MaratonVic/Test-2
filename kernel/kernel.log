@@ -1,0 +1,112 @@
+[ERROR] 09:16:54:476 LOGGER_INFO_KERNEL/(67442:67442): No se ejecuto de la manera correcta el inicio de kernel ./bin/kernel [archivo_pseudocodigo] [tamanio_proceso]
+[INFO] 09:18:19:754 LOGGER_INFO_KERNEL/(68038:68038): [Memoria] Conectado a 127.0.0.1:8002
+[INFO] 09:18:19:754 LOGGER_INFO_KERNEL/(68038:68038): Servidor escuchando en puerto 8001
+[INFO] 09:18:19:754 LOGGER_INFO_KERNEL/(68038:68038): Servidor escuchando en puerto 8004
+[INFO] 09:18:19:754 LOGGER_INFO_KERNEL/(68038:68038): Servidor escuchando en puerto 8003
+[INFO] 09:18:19:754 LOGGER_INFO_KERNEL/(68038:68041): Planificador de corto plazo
+[INFO] 09:18:19:754 LOGGER_INFO_KERNEL/(68038:68040): Planificador de largo plazo frenado
+[INFO] 09:18:19:754 LOGGER_INFO_KERNEL/(68038:68040): Presione ENTER para iniciar el planificador...
+[INFO] 09:18:19:755 LOGGER_INFO_KERNEL/(68038:68042): Planificador de mediano plazo
+[INFO] 09:18:19:755 LOGGER_INFO_KERNEL/(68038:68042): Timer: 4500
+[INFO] 09:18:23:338 LOGGER_INFO_KERNEL/(68038:68043): Se conectó una CPU (dispatch) - FD: 10
+[INFO] 09:18:23:338 LOGGER_INFO_KERNEL/(68038:68044): Se conectó una CPU (interrupt) - FD: 9
+[INFO] 09:18:23:338 LOGGER_INFO_KERNEL/(68038:68043): Código de operación recibido: 5
+[INFO] 09:18:23:338 LOGGER_INFO_KERNEL/(68038:68043): Nombre recibido correctamente: nombre
+[INFO] 09:18:23:338 LOGGER_INFO_KERNEL/(68038:68044): Código de operación recibido: 5
+[INFO] 09:18:23:338 LOGGER_INFO_KERNEL/(68038:68044): Nombre recibido correctamente: nombre
+[ERROR] 09:18:25:720 LOGGER_INFO_KERNEL/(68038:68040): Entre al planificador 
+[INFO] 09:18:25:720 LOGGER_INFO_KERNEL/(68038:68040): ## PID (0) Se crea el proceso - Estado: NEW
+[INFO] 09:18:25:720 LOGGER_INFO_KERNEL/(68038:68040): Algoritmo de corto plazo: FIFO
+[INFO] 09:18:25:720 LOGGER_INFO_KERNEL/(68038:68040): Proceso PID 0 pasa de NEW a READY
+[INFO] 09:18:25:720 LOGGER_INFO_KERNEL/(68038:68041): Algoritmo de corto plazo: FIFO
+[INFO] 09:18:25:721 LOGGER_INFO_KERNEL/(68038:68041): PID (0) pasa de READY a EXEC
+[WARNING] 09:19:17:128 LOGGER_INFO_KERNEL/(68038:68048): CPU desconectada (fd 10)
+[INFO] 09:19:18:354 LOGGER_INFO_KERNEL/(68038:68038): 0
+[WARNING] 09:19:18:354 LOGGER_INFO_KERNEL/(68038:68038): Terminando ordenadamente...
+[ERROR] 09:19:29:625 LOGGER_INFO_KERNEL/(68066:68066): No se ejecuto de la manera correcta el inicio de kernel ./bin/kernel [archivo_pseudocodigo] [tamanio_proceso]
+[INFO] 09:19:36:056 LOGGER_INFO_KERNEL/(68071:68071): [Memoria] Conectado a 127.0.0.1:8002
+[INFO] 09:19:36:057 LOGGER_INFO_KERNEL/(68071:68071): Servidor escuchando en puerto 8001
+[INFO] 09:19:36:057 LOGGER_INFO_KERNEL/(68071:68071): Servidor escuchando en puerto 8004
+[INFO] 09:19:36:057 LOGGER_INFO_KERNEL/(68071:68071): Servidor escuchando en puerto 8003
+[INFO] 09:19:36:057 LOGGER_INFO_KERNEL/(68071:68074): Planificador de corto plazo
+[INFO] 09:19:36:057 LOGGER_INFO_KERNEL/(68071:68073): Planificador de largo plazo frenado
+[INFO] 09:19:36:057 LOGGER_INFO_KERNEL/(68071:68073): Presione ENTER para iniciar el planificador...
+[INFO] 09:19:36:058 LOGGER_INFO_KERNEL/(68071:68075): Planificador de mediano plazo
+[INFO] 09:19:36:058 LOGGER_INFO_KERNEL/(68071:68075): Timer: 4500
+[INFO] 09:19:41:848 LOGGER_INFO_KERNEL/(68071:68076): Se conectó una CPU (dispatch) - FD: 10
+[INFO] 09:19:41:848 LOGGER_INFO_KERNEL/(68071:68076): Código de operación recibido: 5
+[INFO] 09:19:41:848 LOGGER_INFO_KERNEL/(68071:68076): Nombre recibido correctamente: nombre
+[INFO] 09:19:41:848 LOGGER_INFO_KERNEL/(68071:68077): Se conectó una CPU (interrupt) - FD: 9
+[INFO] 09:19:41:848 LOGGER_INFO_KERNEL/(68071:68077): Código de operación recibido: 5
+[INFO] 09:19:41:848 LOGGER_INFO_KERNEL/(68071:68077): Nombre recibido correctamente: nombre
+[ERROR] 09:19:46:712 LOGGER_INFO_KERNEL/(68071:68073): Entre al planificador 
+[INFO] 09:19:46:712 LOGGER_INFO_KERNEL/(68071:68073): ## PID (0) Se crea el proceso - Estado: NEW
+[INFO] 09:19:46:712 LOGGER_INFO_KERNEL/(68071:68073): Algoritmo de corto plazo: FIFO
+[INFO] 09:19:46:712 LOGGER_INFO_KERNEL/(68071:68073): Proceso PID 0 pasa de NEW a READY
+[INFO] 09:19:46:712 LOGGER_INFO_KERNEL/(68071:68074): Algoritmo de corto plazo: FIFO
+[INFO] 09:19:46:712 LOGGER_INFO_KERNEL/(68071:68074): PID (0) pasa de READY a EXEC
+[ERROR] 21:28:50:677 LOGGER_INFO_KERNEL/(13460:13460): No se ejecuto de la manera correcta el inicio de kernel ./bin/kernel [archivo_pseudocodigo] [tamanio_proceso]
+[INFO] 21:31:28:262 LOGGER_INFO_KERNEL/(13523:13523): [Memoria] Conectado a 127.0.0.1:8002
+[INFO] 21:31:28:262 LOGGER_INFO_KERNEL/(13523:13523): Servidor escuchando en puerto 8001
+[INFO] 21:31:28:263 LOGGER_INFO_KERNEL/(13523:13523): Servidor escuchando en puerto 8004
+[INFO] 21:31:28:263 LOGGER_INFO_KERNEL/(13523:13523): Servidor escuchando en puerto 8003
+[INFO] 21:31:28:263 LOGGER_INFO_KERNEL/(13523:13525): Planificador de largo plazo frenado
+[INFO] 21:31:28:263 LOGGER_INFO_KERNEL/(13523:13525): Presione ENTER para iniciar el planificador...
+[INFO] 21:31:28:263 LOGGER_INFO_KERNEL/(13523:13527): Planificador de mediano plazo
+[INFO] 21:31:28:263 LOGGER_INFO_KERNEL/(13523:13527): Timer: 4500
+[INFO] 21:31:33:759 LOGGER_INFO_KERNEL/(13523:13528): Se conectó una CPU (dispatch) - FD: 10
+[INFO] 21:31:33:759 LOGGER_INFO_KERNEL/(13523:13528): Código de operación recibido: 5
+[INFO] 21:31:33:759 LOGGER_INFO_KERNEL/(13523:13528): Nombre recibido correctamente: nombre
+[INFO] 21:31:33:760 LOGGER_INFO_KERNEL/(13523:13529): Se conectó una CPU (interrupt) - FD: 8
+[INFO] 21:31:33:760 LOGGER_INFO_KERNEL/(13523:13529): Código de operación recibido: 5
+[INFO] 21:31:33:760 LOGGER_INFO_KERNEL/(13523:13529): Nombre recibido correctamente: nombre
+[INFO] 21:31:36:621 LOGGER_INFO_KERNEL/(13523:13525): ## PID (0) Se crea el proceso - Estado: NEW
+[INFO] 21:31:38:122 LOGGER_INFO_KERNEL/(13523:13525): Respuesta de memoria: ok
+[INFO] 21:31:38:122 LOGGER_INFO_KERNEL/(13523:13525): Proceso PID 0 pasa de NEW a READY, tamanio 256
+[INFO] 21:31:38:122 LOGGER_INFO_KERNEL/(13523:13526): PID (0) pasa de READY a EXEC con una estimacion de 10000.000000
+[INFO] 21:31:38:122 LOGGER_INFO_KERNEL/(13523:13526): PID (0) pasa de READY a EXEC
+[WARNING] 21:31:41:554 LOGGER_INFO_KERNEL/(13523:13532): CPU desconectada (fd 10)
+[INFO] 22:04:45:140 LOGGER_INFO_KERNEL/(13523:13523): 0
+[WARNING] 22:04:45:140 LOGGER_INFO_KERNEL/(13523:13523): Terminando ordenadamente...
+[INFO] 22:05:00:531 LOGGER_INFO_KERNEL/(15191:15191): [Memoria] Conectado a 127.0.0.1:8002
+[INFO] 22:05:00:532 LOGGER_INFO_KERNEL/(15191:15191): Servidor escuchando en puerto 8001
+[INFO] 22:05:00:532 LOGGER_INFO_KERNEL/(15191:15191): Servidor escuchando en puerto 8004
+[INFO] 22:05:00:532 LOGGER_INFO_KERNEL/(15191:15191): Servidor escuchando en puerto 8003
+[INFO] 22:05:00:532 LOGGER_INFO_KERNEL/(15191:15192): Planificador de largo plazo frenado
+[INFO] 22:05:00:532 LOGGER_INFO_KERNEL/(15191:15192): Presione ENTER para iniciar el planificador...
+[INFO] 22:05:00:532 LOGGER_INFO_KERNEL/(15191:15194): Planificador de mediano plazo
+[INFO] 22:05:00:532 LOGGER_INFO_KERNEL/(15191:15194): Timer: 4500
+[INFO] 22:05:03:300 LOGGER_INFO_KERNEL/(15191:15196): Se conectó una CPU (dispatch) - FD: 9
+[INFO] 22:05:03:300 LOGGER_INFO_KERNEL/(15191:15196): Código de operación recibido: 5
+[INFO] 22:05:03:300 LOGGER_INFO_KERNEL/(15191:15196): Nombre recibido correctamente: nombre
+[INFO] 22:05:03:300 LOGGER_INFO_KERNEL/(15191:15197): Se conectó una CPU (interrupt) - FD: 10
+[INFO] 22:05:03:300 LOGGER_INFO_KERNEL/(15191:15197): Código de operación recibido: 5
+[INFO] 22:05:03:300 LOGGER_INFO_KERNEL/(15191:15197): Nombre recibido correctamente: nombre
+[INFO] 22:05:05:226 LOGGER_INFO_KERNEL/(15191:15192): ## PID (0) Se crea el proceso - Estado: NEW
+[INFO] 22:05:06:726 LOGGER_INFO_KERNEL/(15191:15192): Respuesta de memoria: ok
+[INFO] 22:05:06:726 LOGGER_INFO_KERNEL/(15191:15192): Proceso PID 0 pasa de NEW a READY, tamanio 256
+[INFO] 22:05:06:726 LOGGER_INFO_KERNEL/(15191:15193): PID (0) pasa de READY a EXEC con una estimacion de 10000.000000
+[INFO] 22:05:06:726 LOGGER_INFO_KERNEL/(15191:15193): PID (0) pasa de READY a EXEC
+[WARNING] 22:05:10:092 LOGGER_INFO_KERNEL/(15191:15200): CPU desconectada (fd 9)
+[INFO] 22:56:25:823 LOGGER_INFO_KERNEL/(15191:15191): 0
+[WARNING] 22:56:25:825 LOGGER_INFO_KERNEL/(15191:15191): Terminando ordenadamente...
+[INFO] 22:56:42:670 LOGGER_INFO_KERNEL/(16618:16618): [Memoria] Conectado a 127.0.0.1:8002
+[INFO] 22:56:42:670 LOGGER_INFO_KERNEL/(16618:16618): Servidor escuchando en puerto 8001
+[INFO] 22:56:42:670 LOGGER_INFO_KERNEL/(16618:16618): Servidor escuchando en puerto 8004
+[INFO] 22:56:42:670 LOGGER_INFO_KERNEL/(16618:16618): Servidor escuchando en puerto 8003
+[INFO] 22:56:42:670 LOGGER_INFO_KERNEL/(16618:16620): Planificador de largo plazo frenado
+[INFO] 22:56:42:670 LOGGER_INFO_KERNEL/(16618:16620): Presione ENTER para iniciar el planificador...
+[INFO] 22:56:42:670 LOGGER_INFO_KERNEL/(16618:16622): Planificador de mediano plazo
+[INFO] 22:56:42:671 LOGGER_INFO_KERNEL/(16618:16622): Timer: 4500
+[INFO] 22:56:45:824 LOGGER_INFO_KERNEL/(16618:16623): Se conectó una CPU (dispatch) - FD: 9
+[INFO] 22:56:45:824 LOGGER_INFO_KERNEL/(16618:16623): Código de operación recibido: 5
+[INFO] 22:56:45:824 LOGGER_INFO_KERNEL/(16618:16623): Nombre recibido correctamente: nombre
+[INFO] 22:56:45:824 LOGGER_INFO_KERNEL/(16618:16624): Se conectó una CPU (interrupt) - FD: 8
+[INFO] 22:56:45:824 LOGGER_INFO_KERNEL/(16618:16624): Código de operación recibido: 5
+[INFO] 22:56:45:824 LOGGER_INFO_KERNEL/(16618:16624): Nombre recibido correctamente: nombre
+[INFO] 22:56:48:861 LOGGER_INFO_KERNEL/(16618:16620): ## PID (0) Se crea el proceso - Estado: NEW
+[INFO] 22:56:50:362 LOGGER_INFO_KERNEL/(16618:16620): Respuesta de memoria: ok
+[INFO] 22:56:50:362 LOGGER_INFO_KERNEL/(16618:16620): Proceso PID 0 pasa de NEW a READY, tamanio 256
+[INFO] 22:56:50:362 LOGGER_INFO_KERNEL/(16618:16621): PID (0) pasa de READY a EXEC con una estimacion de 10000.000000
+[INFO] 22:56:50:362 LOGGER_INFO_KERNEL/(16618:16621): PID (0) pasa de READY a EXEC
+[WARNING] 22:56:53:717 LOGGER_INFO_KERNEL/(16618:16627): CPU desconectada (fd 9)

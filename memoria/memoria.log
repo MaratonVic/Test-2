@@ -1,0 +1,67 @@
+[INFO] 09:16:42:748 mostrar-logs/(67115:67115): Servidor escuchando en puerto 8002
+[INFO] 09:18:13:977 mostrar-logs/(68036:68036): Servidor escuchando en puerto 8002
+[INFO] 09:18:19:754 mostrar-logs/(68036:68039): ## Kernel Conectado - FD del socket: 5
+
+[INFO] 09:18:23:338 mostrar-logs/(68036:68047): ## CPU Conectada - FD del socket: 6
+
+[INFO] 09:18:25:721 mostrar-logs/(68036:68039): Código de operación recibido: 8
+[ERROR] 09:18:27:221 mostrar-logs/(68036:68039): Entre
+[INFO] 09:18:27:221 mostrar-logs/(68036:68039): PID: 0 
+
+[INFO] 09:18:27:221 mostrar-logs/(68036:68039): archivo /home/utnso/scripts/pseudocodigo.txt
+[INFO] 09:19:24:753 mostrar-logs/(68065:68065): Servidor escuchando en puerto 8002
+[INFO] 09:19:36:057 mostrar-logs/(68065:68072): ## Kernel Conectado - FD del socket: 5
+
+[INFO] 09:19:41:848 mostrar-logs/(68065:68081): ## CPU Conectada - FD del socket: 6
+
+[INFO] 09:19:46:712 mostrar-logs/(68065:68072): Código de operación recibido: 8
+[INFO] 15:34:11:030 mostrar-logs/(43633:43633): Servidor escuchando en puerto 8002
+[INFO] 15:53:00:448 mostrar-logs/(46445:46445): Servidor escuchando en puerto 8002
+[INFO] 17:24:32:303 mostrar-logs/(7539:7539): Servidor escuchando en puerto 8002
+[INFO] 21:28:38:868 mostrar-logs/(13120:13120): Servidor escuchando en puerto 8002
+[INFO] 21:31:21:854 mostrar-logs/(13522:13522): Servidor escuchando en puerto 8002
+[INFO] 21:31:28:263 mostrar-logs/(13522:13524): ## Kernel Conectado - FD del socket: 5
+
+[INFO] 21:31:33:761 mostrar-logs/(13522:13533): ## CPU Conectada - FD del socket: 6
+
+[INFO] 21:31:36:621 mostrar-logs/(13522:13524): Código de operación recibido: 8
+[ERROR] 21:31:38:121 mostrar-logs/(13522:13524): Entre
+[INFO] 21:31:38:121 mostrar-logs/(13522:13524): PID: 0 
+
+[INFO] 21:31:38:121 mostrar-logs/(13522:13524): archivo /home/utnso/scripts/pseudocodigo.txt
+[INFO] 21:31:38:122 mostrar-logs/(13522:13524): Instrucciones cargadas para PID 0 (8 instrucciones)
+[INFO] 21:31:38:122 mostrar-logs/(13522:13524): ## PID: 0 - Proceso Creado - Tamanio: 256
+[INFO] 21:31:39:622 mostrar-logs/(13522:13533): Instrucción enviada correctamente
+[INFO] 21:31:41:386 mostrar-logs/(13522:13533): Instrucción enviada correctamente
+[ERROR] 21:31:41:554 mostrar-logs/(13522:13533): Fallo al recibir paquete
+[INFO] 22:04:21:012 mostrar-logs/(14631:14631): Servidor escuchando en puerto 8002
+[INFO] 22:04:57:587 mostrar-logs/(15190:15190): Servidor escuchando en puerto 8002
+[INFO] 22:05:00:532 mostrar-logs/(15190:15195): ## Kernel Conectado - FD del socket: 5
+
+[INFO] 22:05:03:301 mostrar-logs/(15190:15201): ## CPU Conectada - FD del socket: 6
+
+[INFO] 22:05:05:226 mostrar-logs/(15190:15195): Código de operación recibido: 8
+[ERROR] 22:05:06:726 mostrar-logs/(15190:15195): Entre
+[INFO] 22:05:06:726 mostrar-logs/(15190:15195): PID: 0 
+
+[INFO] 22:05:06:726 mostrar-logs/(15190:15195): archivo /home/utnso/scripts/pseudocodigo.txt
+[INFO] 22:05:06:726 mostrar-logs/(15190:15195): Instrucciones cargadas para PID 0 (8 instrucciones)
+[INFO] 22:05:06:726 mostrar-logs/(15190:15195): ## PID: 0 - Proceso Creado - Tamanio: 256
+[INFO] 22:05:08:227 mostrar-logs/(15190:15201): Instrucción enviada correctamente
+[INFO] 22:05:09:978 mostrar-logs/(15190:15201): Instrucción enviada correctamente
+[ERROR] 22:05:10:092 mostrar-logs/(15190:15201): Fallo al recibir paquete
+[INFO] 22:56:39:879 mostrar-logs/(16617:16617): Servidor escuchando en puerto 8002
+[INFO] 22:56:42:670 mostrar-logs/(16617:16619): ## Kernel Conectado - FD del socket: 5
+
+[INFO] 22:56:45:825 mostrar-logs/(16617:16628): ## CPU Conectada - FD del socket: 6
+
+[INFO] 22:56:48:861 mostrar-logs/(16617:16619): Código de operación recibido: 8
+[ERROR] 22:56:50:362 mostrar-logs/(16617:16619): Entre
+[INFO] 22:56:50:362 mostrar-logs/(16617:16619): PID: 0 
+
+[INFO] 22:56:50:362 mostrar-logs/(16617:16619): archivo /home/utnso/scripts/pseudocodigo.txt
+[INFO] 22:56:50:362 mostrar-logs/(16617:16619): Instrucciones cargadas para PID 0 (8 instrucciones)
+[INFO] 22:56:50:362 mostrar-logs/(16617:16619): ## PID: 0 - Proceso Creado - Tamanio: 256
+[INFO] 22:56:51:867 mostrar-logs/(16617:16628): Instrucción enviada correctamente
+[INFO] 22:56:53:619 mostrar-logs/(16617:16628): Instrucción enviada correctamente
+[ERROR] 22:56:53:716 mostrar-logs/(16617:16628): Fallo al recibir paquete
