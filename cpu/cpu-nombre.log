@@ -1,0 +1,59 @@
+[INFO] 09:18:23:338 CPU/(68046:68046): CPU nombre inicializando...
+[INFO] 09:18:23:338 CPU/(68046:68046): [Kernel Dispatch] Conectado a 127.0.0.1:8001
+[INFO] 09:18:23:338 CPU/(68046:68046): [Dispatch] FD de conexión con kernel dispatch: 4
+[INFO] 09:18:23:338 CPU/(68046:68046): [Kernel Interrupt] Conectado a 127.0.0.1:8004
+[INFO] 09:18:23:338 CPU/(68046:68046): [Interrupt] Handshake enviado (CPU ID: nombre)
+[INFO] 09:18:23:338 CPU/(68046:68046): [Memoria] Conectado a 127.0.0.1:8002
+[INFO] 09:18:23:338 CPU/(68046:68046): [Memoria] Handshake enviado (CPU ID: nombre)
+[INFO] 09:18:25:721 CPU/(68046:68049): ## PID: 0 - PC: 0
+[ERROR] 09:18:25:721 CPU/(68046:68049): Entre locura
+[ERROR] 09:18:27:853 CPU/(68046:68049): No se recibió respuesta de Memoria
+[ERROR] 09:18:27:853 CPU/(68046:68049): Fallo en fetch para PID 0, PC 0
+[INFO] 09:19:17:128 CPU/(68046:68046): Cerrando CPU nombre...
+[INFO] 09:19:41:848 CPU/(68079:68079): CPU nombre inicializando...
+[INFO] 09:19:41:848 CPU/(68079:68079): [Kernel Dispatch] Conectado a 127.0.0.1:8001
+[INFO] 09:19:41:848 CPU/(68079:68079): [Dispatch] FD de conexión con kernel dispatch: 4
+[INFO] 09:19:41:848 CPU/(68079:68079): [Kernel Interrupt] Conectado a 127.0.0.1:8004
+[INFO] 09:19:41:848 CPU/(68079:68079): [Interrupt] Handshake enviado (CPU ID: nombre)
+[INFO] 09:19:41:848 CPU/(68079:68079): [Memoria] Conectado a 127.0.0.1:8002
+[INFO] 09:19:41:848 CPU/(68079:68079): [Memoria] Handshake enviado (CPU ID: nombre)
+[INFO] 09:19:46:712 CPU/(68079:68082): ## PID: 0 - PC: 0
+[ERROR] 09:19:46:712 CPU/(68079:68082): Entre locura
+[ERROR] 09:19:48:323 CPU/(68079:68082): No se recibió respuesta de Memoria
+[ERROR] 09:19:48:323 CPU/(68079:68082): Fallo en fetch para PID 0, PC 0
+[INFO] 21:31:33:758 CPU/(13531:13531): CPU nombre inicializando...
+[INFO] 21:31:33:759 CPU/(13531:13531): [Kernel Dispatch] Conectado a 127.0.0.1:8001
+[INFO] 21:31:33:759 CPU/(13531:13531): [Dispatch] FD de conexión con kernel dispatch: 4
+[INFO] 21:31:33:760 CPU/(13531:13531): [Kernel Interrupt] Conectado a 127.0.0.1:8004
+[INFO] 21:31:33:760 CPU/(13531:13531): [Interrupt] Handshake enviado (CPU ID: nombre)
+[INFO] 21:31:33:761 CPU/(13531:13531): [Memoria] Conectado a 127.0.0.1:8002
+[INFO] 21:31:33:761 CPU/(13531:13531): [Memoria] Handshake enviado (CPU ID: nombre)
+[INFO] 21:31:38:122 CPU/(13531:13534): ## PID: 0 - PC: 0
+[ERROR] 21:31:38:122 CPU/(13531:13534): Entre locura
+[INFO] 21:31:39:622 CPU/(13531:13534): [EJECUTAR] PID 0 - Instrucción: NOOP
+[ERROR] 21:31:39:874 CPU/(13531:13534): Entre locura
+[INFO] 21:31:41:386 CPU/(13531:13534): [EJECUTAR] PID 0 - Instrucción: WRITE
+[INFO] 22:05:03:299 CPU/(15199:15199): CPU nombre inicializando...
+[INFO] 22:05:03:299 CPU/(15199:15199): [Kernel Dispatch] Conectado a 127.0.0.1:8001
+[INFO] 22:05:03:299 CPU/(15199:15199): [Dispatch] FD de conexión con kernel dispatch: 4
+[INFO] 22:05:03:300 CPU/(15199:15199): [Kernel Interrupt] Conectado a 127.0.0.1:8004
+[INFO] 22:05:03:300 CPU/(15199:15199): [Interrupt] Handshake enviado (CPU ID: nombre)
+[INFO] 22:05:03:300 CPU/(15199:15199): [Memoria] Conectado a 127.0.0.1:8002
+[INFO] 22:05:03:300 CPU/(15199:15199): [Memoria] Handshake enviado (CPU ID: nombre)
+[INFO] 22:05:06:726 CPU/(15199:15202): ## PID: 0 - PC: 0
+[ERROR] 22:05:06:726 CPU/(15199:15202): Entre locura
+[INFO] 22:05:08:227 CPU/(15199:15202): [EJECUTAR] PID 0 - Instrucción: NOOP
+[ERROR] 22:05:08:478 CPU/(15199:15202): Entre locura
+[INFO] 22:05:09:979 CPU/(15199:15202): [EJECUTAR] PID 0 - Instrucción: WRITE
+[INFO] 22:56:45:823 CPU/(16626:16626): CPU nombre inicializando...
+[INFO] 22:56:45:824 CPU/(16626:16626): [Kernel Dispatch] Conectado a 127.0.0.1:8001
+[INFO] 22:56:45:824 CPU/(16626:16626): [Dispatch] FD de conexión con kernel dispatch: 4
+[INFO] 22:56:45:824 CPU/(16626:16626): [Kernel Interrupt] Conectado a 127.0.0.1:8004
+[INFO] 22:56:45:825 CPU/(16626:16626): [Interrupt] Handshake enviado (CPU ID: nombre)
+[INFO] 22:56:45:825 CPU/(16626:16626): [Memoria] Conectado a 127.0.0.1:8002
+[INFO] 22:56:45:825 CPU/(16626:16626): [Memoria] Handshake enviado (CPU ID: nombre)
+[INFO] 22:56:50:362 CPU/(16626:16629): ## PID: 0 - PC: 0
+[ERROR] 22:56:50:362 CPU/(16626:16629): Entre locura
+[INFO] 22:56:51:868 CPU/(16626:16629): [EJECUTAR] PID 0 - Instrucción: NOOP
+[ERROR] 22:56:52:118 CPU/(16626:16629): Entre locura
+[INFO] 22:56:53:619 CPU/(16626:16629): [EJECUTAR] PID 0 - Instrucción: WRITE
